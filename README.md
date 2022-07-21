@@ -1,6 +1,6 @@
 # Wedad-Alqithmi
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io/)
-<h1 align="center">Hi ??, I'm Wedad Alqithmi</h1>
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+<h1 align="center">Hi, I'm Wedad Alqithmi</h1>
 <h3 align="center">An IT&C student at Arab Open University</h3>
 
 <img alighn ="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/css-html-programming-languages-computer-programming-coding-it-female-programmer-cartoon-character-software-website-development-vector-isolated-concept-metaphor-illustration_335657-2740.jpg?t=st=1658446838~exp=1658447438~hmac=9e3d9e5a0817495ae98594cd4fd0bc99065c0fdc585e9e69f9d949d7f17f3ba9&w=740">
