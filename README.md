@@ -14,4 +14,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WedadAlqithmi&layout=compact)](https://github.com/WedadAlqithmi/github-readme-stats)
 
-Check my last projects 
